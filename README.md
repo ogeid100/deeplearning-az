@@ -4,7 +4,7 @@
 
 La inteligencia artificial está creciendo exponencialmente, sin lugar a dudas. Los vehículos que se conducen por sí mismos están recorriendo millones de kilómetros, IBM Watson está diagnosticando a pacientes mejor que ejércitos de médicos y el AlphaGo de Google Deepmind venció al campeón mundial de Go - un juego en el que la intuición juega un papel clave.
 
-Pero cuanto más avanza la IA, más complejos se vuelven los problemas que deben ser solucionados. Y solamente el Deep Learning puede solucionar problemas tan complejos y por eso está en el corazón de la Inteligencia Artificial.
+**Pero cuanto más avanza la IA, más complejos se vuelven los problemas que deben ser solucionados. Y solamente el Deep Learning puede solucionar problemas tan complejos y por eso está en el corazón de la Inteligencia Artificial.**
 
 ## ¿Por qué Deep Learning de la A a la Z?
 
